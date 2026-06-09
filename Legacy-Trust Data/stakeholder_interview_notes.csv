@@ -1,0 +1,127 @@
+note_id,stakeholder_name,stakeholder_role,quote_or_observation
+SN-001,Amina Rahman,Compliance Liaison,Customers respond well when they have control and transparency about what they owe.
+SN-002,Daniel Okoye,Finance Business Partner,Customers call back three times because they do not remember what they were told on the first call.
+SN-003,Priya Nair,Operations Manager,Simple cases that could be resolved in minutes take days because they get stuck in the wrong queue.
+SN-004,Gareth Evans,Senior Collections Team Leader,Leadership approved the roadmap five years ago and never came back to debt recovery.
+SN-005,Tracy Field,Systems Administrator,Some customers will do anything if given the chance to manage this themselves.
+SN-006,Sylvia Turner,Operations Analyst,We have no way to tell whether a customer is genuinely unable to pay or simply avoiding contact.
+SN-007,Lawrence Bennett,Finance Analyst,We have cases sitting in 'awaiting callback' status for months because the promised date was never recorded.
+SN-008,Andrea Hunt,Operations Manager,"The audit trail is scattered across email, spreadsheets, and the legacy database, making compliance reviews a nightmare."
+SN-009,Kimberley Richards-Stokes,Service Design Lead,"Some customers will never use a portal no matter how good it is, and we need to plan for that."
+SN-010,Mr Philip Stone,Service Design Lead,A single customer can have five separate records in the system from different entry points.
+SN-011,Christopher Richards,Collections Agent,"The collections database does not sync with the email tracker, so agents often re-contact customers who were already promised callbacks."
+SN-012,Ms Andrea Lamb,Collections Agent,The data quality is so poor that we stopped running management reports altogether.
+SN-013,Mathew Barlow-Knight,Collections Agent,Most of our experienced agents have learned workarounds that make them faster than any official process.
+SN-014,Stewart Howell,Operations Analyst,We cannot tell whether a case failed because of process breakdown or deliberate non-compliance.
+SN-015,,Compliance Liaison,A case marked 'resolved' in one system might be 'in progress' in another.
+SN-016,Mr Dale Jackson,Collections Agent,"The old system was designed for half the volume we handle now, and it shows."
+SN-017,Eleanor Clark,Service Design Lead,Most customers do not even know they can pay online; they think they have to call.
+SN-018,Daniel Farmer,Finance Analyst,"Some agents have been doing this for so long they are faster than the system, and they will resist change."
+SN-019,Mr Martyn Akhtar,Operations Analyst,I cannot recommend automating anything until I see that it will not create new compliance risks.
+SN-020,Ronald Rees,Collections Agent,New agents take two weeks longer to reach productivity because they have to learn the spreadsheet system.
+SN-021,Clare Willis,Service Design Lead,"With over 100,000 accounts, we cannot manage this manually any longer, yet that is exactly what we are doing."
+SN-022,Rebecca Davis,Compliance Liaison,"The database was designed for a tenth of the volume we handle now, and performance degrades as we approach month-end."
+SN-023,Dr Louis Sinclair,Service Design Lead,We have more accounts in the system than our agents can possibly contact in a reasonable timeframe.
+SN-024,Dr Laura Roberts,Compliance Liaison,The scale of the problem means that even small improvements in efficiency multiply significantly.
+SN-025,Dr Lynda Smith,Operations Analyst,The spreadsheet is now two hundred sheets thick and no one knows what half of them do.
+SN-026,Katherine Taylor-Evans,Finance Analyst,We have never measured how often a case comes back because we have no way to track it.
+SN-027,Karl Lewis-Warren,Operations Analyst,Agents spend time proving what they did rather than doing more work.
+SN-028,Diana White,Collections Agent,Customers go through the contact process multiple times because we have no way to prevent re-contact.
+SN-029,Barry Skinner,Operations Analyst,Straightforward cases get delayed because they are queued behind complex ones with no priority logic.
+SN-030,Jacqueline Norris,Operations Analyst,We need to fix the fundamentals before we can build anything new on top.
+SN-031,Andrea Hunt,Finance Analyst,"If self-service reduces agent workload, that headcount saving needs to be real, not theoretical."
+SN-032,Daniel Farmer,Finance Analyst,We lose customers because the recovery process is so slow they lose faith we will ever resolve it.
+SN-033,,Compliance Liaison,We could recover an extra 5% of balances if we just contacted people at the right time.
+SN-034,Lawrence Bennett,Collections Agent,Agents are ready for better tools; they are tired of workarounds.
+SN-035,,Systems Administrator,The database cannot handle the complexity of modern lending products and customer situations.
+SN-036,Robert Quinn,Process Improvement Lead,Customers get transferred between departments and have to repeat their entire situation each time.
+SN-037,Gareth Evans,Operations Analyst,The first contact with a customer is often not optimised because we do not know their full history.
+SN-038,Sylvia Turner,Operations Analyst,The biggest win will be when agents stop checking whether work was already done.
+SN-039,Simon Burns,Compliance Liaison,We do not have a way to identify which cases are straightforward versus which require specialist handling.
+SN-040,Catherine Frost,Data Analyst,We lose at least 20% of follow-ups because they fall between shifts and no one owns the handoff.
+SN-041,Peter Chambers,Customer Service Lead,We cannot automate the decision about whether a customer is genuinely in hardship or just dodging contact.
+SN-042,Jennifer Hayes,Systems Administrator,We cannot tell whether a case failed because the agent made a mistake or because the customer is genuinely unable to pay.
+SN-043,Simon Burns,Compliance Liaison,We need to measure whether this is better before we commit to rolling it out.
+SN-044,Robert Quinn,Process Improvement Lead,"If a customer pays even a small amount, the whole case gets reclassified and we lose months of history."
+SN-045,Amina Rahman,Head of Debt Recovery Operations,The contact strategy is reactive—we contact people only when collections escalates them.
+SN-046,Christopher Richards,Collections Agent,No one can tell me how much the current workarounds are costing us because the cost is hidden.
+SN-047,Diana White,Collections Agent,We are exposed to complaint risk because customers cannot track what we have told them.
+SN-048,Daniel Farmer,Finance Analyst,"Reporting takes so long that by the time we see the numbers, they are already out of date."
+SN-049,Stewart Howell,Operations Analyst,We have no way to distinguish between a case that is progressing normally and one that is stalled.
+SN-050,Rebecca Davis,Compliance Liaison,Agents see solutions that the system does not allow them to implement.
+SN-051,Sylvia Turner,Operations Manager,"Leadership wants the financial case to include upside from better customer retention, but I do not think that is real."
+SN-052,Lawrence Bennett,Collections Agent,"If we can reduce the time between identifying a payment opportunity and making contact, we win."
+SN-053,Dr Louis Sinclair,Service Design Lead,Cases get stuck in 'pending callback' status indefinitely because the callback date is never enforced.
+SN-054,Eleanor Clark,Service Design Lead,"We have edge cases involving hardship, vulnerability, and regulatory forbearance that need human judgment."
+SN-055,Jacqueline Norris,Operations Analyst,Some cases must stay agent-led because risk and specialist rules still apply.
+SN-056,Andrea Hunt,Finance Analyst,"Status updates do not capture why a case changed state, only that it did."
+SN-057,Sylvia Turner,Operations Analyst,"Complex and simple cases get mixed together in the same queue, which slows everything down."
+SN-058,Mr Martyn Akhtar,Operations Analyst,"This will work only if we address the underlying broken process, not just add a layer on top."
+SN-059,James Morrison,Quality Assurance Lead,Agents see solutions that the system does not allow them to implement.
+SN-060,,Collections Agent,The compliance team says they cannot approve anything until they see the future process mapped out.
+SN-061,Tracy Field,Compliance Liaison,The 20-year-old system was built for a different business model entirely.
+SN-062,Simon Burns,Compliance Liaison,Every new tool we add makes the job harder because it adds another place where data can get out of sync.
+SN-063,Mr Martyn Akhtar,Operations Analyst,I cannot tell which customers have already been contacted this month without manually checking three different sheets.
+SN-064,Simon Burns,Compliance Liaison,The details matter more than the vision here.
+SN-065,Dr Lynda Smith,Operations Analyst,Customers would pay more readily if they understood exactly what they owe and could see options.
+SN-066,Jacqueline Norris,Operations Analyst,Audit trails across multiple systems make it nearly impossible to demonstrate what happened to a case.
+SN-067,Dr Laura Roberts,Compliance Liaison,We are losing money on cases that fall through the cracks between systems.
+SN-068,Dr Laura Roberts,Compliance Liaison,We lose good people because they get frustrated managing around the system instead of managing cases.
+SN-069,Stewart Howell,,Cases involving vulnerable customers are not flagged differently from routine cases.
+SN-070,Daniel Farmer,Finance Analyst,The finance team cannot forecast recovery revenue because they do not trust the activity data.
+SN-071,Tracy Field,,The finance team will ask for proof that this is not just shifting cost from operations to lost recovery.
+SN-072,Christopher Richards,Collections Agent,Experienced agents are faster because they have memorised workarounds that should not be necessary.
+SN-073,Mr Dale Jackson,Collections Agent,The activity log does not distinguish between actual contact and failed contact attempts.
+SN-074,Jacqueline Norris,Operations Analyst,"If we do not invest in this, we will keep losing good agents to frustration."
+SN-075,Daniel Farmer,Finance Analyst,Cases pile up on Fridays because no one wants to open new ones before the weekend.
+SN-076,Peter Chambers,Customer Service Lead,The value case needs to account for the fact that some recoveries will take longer with self-service.
+SN-077,Clare Willis,Service Design Lead,We reach out to customers in a random order rather than any strategic sequence.
+SN-078,Priya Nair,Product Manager,We reach out to customers in a random order rather than any strategic sequence.
+SN-079,Gareth Evans,Senior Collections Team Leader,We do not have a way to identify which cases are straightforward versus which require specialist handling.
+SN-080,Katherine Taylor-Evans,Finance Analyst,No one has visibility of what is actually in the pipeline or how long cases typically take.
+SN-081,Tracy Field,Compliance Liaison,"If the portal works, it will work because it gives customers control, not because it is fancier."
+SN-082,Sarah Mitchell,Collections Agent,"Self-service works well for straightforward cases, but we need to be honest about which ones those are."
+SN-083,Clare Willis,Service Design Lead,Success looks different depending on who you ask.
+SN-084,Thomas Wright,Operations Manager,Agents are afraid to try new things because they were burned by the last system update.
+SN-085,Jacqueline Norris,Operations Analyst,There is no standard definition of what each status actually means across the team.
+SN-086,Eleanor Clark,Service Design Lead,The legacy system was designed before online banking and mobile payments were common.
+SN-087,Mr Dale Jackson,Collections Agent,We are paying agents to hunt for information that should already be on the screen.
+SN-088,Peter Chambers,,We have no visibility into why cases are failing; we only know that they do.
+SN-089,Eleanor Clark,Service Design Lead,We are treating this as a technology problem when some of it is a process problem.
+SN-090,Robert Quinn,Process Improvement Lead,Some teams will embrace it immediately and others will resist until forced.
+SN-091,Robert Quinn,Process Improvement Lead,Experienced agents are faster because they have memorised workarounds that should not be necessary.
+SN-092,Dr Laura Roberts,Compliance Liaison,The best agents are being held back by process rather than enabled by it.
+SN-093,Kimberley Richards-Stokes,Compliance Liaison,The 20-year-old system was built for a different business model entirely.
+SN-094,Thomas Wright,Operations Manager,I spend more time reading notes from other agents than I spend actually calling customers.
+SN-095,Priya Nair,Product Manager,Managers need a clear view of whether self-service actually reduces workload.
+SN-096,Mr Philip Stone,Service Design Lead,The spreadsheet workaround cost us five hundred thousand pounds in lost recovery last year.
+SN-097,Christopher Richards-Smith,Collections Agent,"Agents are afraid of the portal because they think it will take away their job, not because it won't work."
+SN-098,Diana White,Collections Agent,"I can see that work is happening, but I cannot see whether it is the right work."
+SN-099,Tracy Field,Compliance Liaison,The portal could work brilliantly for the 40% of customers who want to resolve this themselves.
+SN-100,Dr Lynda Smith,Operations Analyst,"We are treating urgent cases and routine cases the same way, which is why everything feels urgent."
+SN-101,Sylvia Turner,Operations Analyst,Success looks different depending on who you ask.
+SN-102,Sarah Mitchell,Collections Agent,Agents are ready for better tools; they are tired of workarounds.
+SN-103,Thomas Wright,Operations Manager,"If the portal works, it will work because it gives customers control, not because it is fancier."
+SN-104,Kimberley Richards-Stokes,Service Design Lead,"If a customer pays even a small amount, the whole case gets reclassified and we lose months of history."
+SN-105,Lawrence Bennett,Collections Agent,We lose at least 20% of follow-ups because they fall between shifts and no one owns the handoff.
+SN-106,Mr Philip Stone,Service Design Lead,Most of our experienced agents have learned workarounds that make them faster than any official process.
+SN-107,Sarah Mitchell,Collections Agent,There is no standard definition of what each status actually means across the team.
+SN-108,Eleanor Clark,Service Design Lead,"If unsupported cases come back with no context, agents will reject the portal."
+SN-109,Simon Burns,Compliance Liaison,Some customers will do anything if given the chance to manage this themselves.
+SN-110,Tracy Field,Compliance Liaison,Agents are afraid to try new things because they were burned by the last system update.
+SN-111,Daniel Okoye,Finance & Compliance Director,Every status update in the old system requires manual re-keying into the spreadsheet.
+SN-112,Veronica Cole,Compliance Officer,"The current system treats payment promises the same as payment confirmations, which creates confusion."
+SN-113,Ms Andrea Lamb,Collections Agent,Leadership approved the roadmap five years ago and never came back to debt recovery.
+SN-114,Christopher Richards,Collections Agent,Experienced agents are faster because they have memorised workarounds that should not be necessary.
+SN-115,Peter Chambers,Customer Service Lead,"If we do not invest in this, we will keep losing good agents to frustration."
+SN-116,Dr Laura Roberts,Compliance Liaison,Agents see solutions that the system does not allow them to implement.
+SN-117,Thomas Wright,Operations Manager,"If we do not invest in this, we will keep losing good agents to frustration."
+SN-118,Amina Rahman,Head of Debt Recovery Operations,Cases get stuck in 'pending callback' status indefinitely because the callback date is never enforced.
+SN-119,Mr Dale Jackson,Collections Agent,We reach out to customers in a random order rather than any strategic sequence.
+SN-120,Simon Burns,Compliance Liaison,"The portal would be great, but what happens when someone disputes the balance?"
+SN-121,Daniel Farmer,Finance Analyst,"We have edge cases involving hardship, vulnerability, and regulatory forbearance that need human judgment."
+SN-122,Dr Louis Sinclair,Service Design Lead,"Different agents use different status codes, which makes reporting meaningless."
+SN-123,Christopher Richards,Collections Agent,"Every month the finance team has to reconcile our activity count with the database, and they never match."
+SN-124,Lawrence Bennett,Collections Agent,We have never measured how often a case comes back because we have no way to track it.
+SN-125,James Morrison,Quality Assurance Lead,Our agents are creative and adaptable; they will find ways to use the portal effectively.
+SN-126,Christopher Richards,Collections Agent,"The current system treats payment promises the same as payment confirmations, which creates confusion."

@@ -1,0 +1,12 @@
+assumption_id,assumption_name,value,unit,source,confidence_level,notes
+FA-01,agent_hourly_cost,22,GBP,Finance workbook,High,Blended agent hourly cost
+FA-02,working_days_per_month,21,days,Finance workbook,High,Used for admin calculations
+FA-03,straightforward_case_share,0.38,ratio,Operations estimate,Medium,Suitable for rules-driven self-service
+FA-04,avg_straightforward_case_minutes,18,minutes,Operations leadership,Medium,Current case handling time
+FA-05,target_straightforward_case_minutes,10,minutes,Operations target,Medium,Target after automation support
+FA-06,missed_follow_up_rate,0.14,ratio,Activity tracker analysis,Medium,Indicative rate of missed or delayed follow-up
+FA-07,recovery_uplift_for_plan_selection,0.04,ratio,Finance estimate,Low,Test in sensitivity analysis
+FA-08,recovery_uplift_for_promise_capture,0.025,ratio,Finance estimate,Low,Scenario based
+FA-09,monthly_recovery_baseline,8000000,GBP,Finance workbook,Medium,Baseline monthly recoveries
+FA-10,implementation_cost_low_complexity,45000,GBP,Product delivery estimate,Medium,Starter figure
+FA-11,implementation_cost_medium_complexity,85000,GBP,Product delivery estimate,Medium,Starter figure
