@@ -107,6 +107,6 @@ Which metrics (e.g. time-to-first-action, follow-up adherence, resolution time, 
 
 Legacy-Trust Bank's debt recovery system has been constrained by the fragmentation of a 20-year-old system that comprises a legacy system, spreadsheets and email trails, causing agents to spend a significant amount of time collating information about each case rather than being able to focus on complex cases that require human judgement. This messy system leads to further duplicated work, missed follow-ups and inconsistent case statuses, which limits scalability given the volume of accounts (exceeding 100,000 cases). 
 
-This results in recovery performance being driven by administration skills and memorisation of cases rather than case complexity or value. This lack of separation leads to a muddy idea of automation opportunities and inefficiency costs. 
+This results in recovery performance being driven by administration skills and memorisation of cases rather than case complexity or value. This lack of separation leads to a muddy idea of automation opportunities and inefficiency costs.
 
-The core problem is therefore a lack of scalable process clarity and data consistency, making it difficult to reliably automate low-complexity recovery activity or demonstrate a robust, evidence-based return on investment for a self-serve recovery model.
+The core problem is therefore a lack of scalable process clarity and data consistency, making it difficult to reliably automate low-complexity recovery activity or demonstrate a robust, evidence-based return on investment for a self-serve recovery model. 
